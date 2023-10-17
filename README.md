@@ -1,0 +1,2 @@
+# Streamlit_from_EC2
+Segmentation_Fastapi_docker_EC2_Streamlit
